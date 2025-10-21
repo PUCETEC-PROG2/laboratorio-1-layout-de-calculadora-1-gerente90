@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Jefferson Bryan Almeida Criollo
+- **Carrera**: Desarrollo de Software
+- **Fecha de entrega**: 21/0ct/2025
 
 ---
 
